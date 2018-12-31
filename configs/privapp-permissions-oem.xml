@@ -19,13 +19,10 @@
         <permission name="android.permission.PACKET_KEEPALIVE_OFFLOAD"/>
     </privapp-permissions>
 
-<<<<<<< HEAD
-=======
     <privapp-permissions package="org.codeaurora.qti.qtiNetworkApp">
         <permission name="android.permission.MODIFY_PHONE_STATE"/>
     </privapp-permissions>
 
->>>>>>> 075bddd... potter: update privapp perms
     <privapp-permissions package="org.codeaurora.ims">
         <permission name="android.permission.READ_PRECISE_PHONE_STATE"/>
         <permission name="android.permission.INTERACT_ACROSS_USERS"/>
